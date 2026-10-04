@@ -1,0 +1,8 @@
+# Built binary
+/cache-proxy
+
+# Editor/OS junk
+.DS_Store
+*.swp
+
+kindle-cache-proxy
